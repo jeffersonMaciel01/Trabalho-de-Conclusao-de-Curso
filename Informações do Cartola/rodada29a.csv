@@ -1,0 +1,254 @@
+atletas.nome;atletas.atleta_id;atletas.rodada_id;atletas.posicao_id;atletas.status_id;pontos.rodada.ant;atletas.preco_num;atletas.media_num;atletas.clube.id.full.name;FC;FD;FF;FS;G;I;RB;CA;PE;A;SG;DD;FT;GS;CV;GC;PP;DP;jogou.partida.ant;vitoria.ou.derrota.ant;confronto.ant;resultado.partida;confronto.atual;pontuacao_rodada_anterior_ADV;sede.rodada.atual;classificacao
+Matheus Ferraz Pereira;38632;29;zag;Provável;3.6;7.23;3.08;América-MG;1;0;0;1;0;0;3;0;3;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;bom
+Adilson Dias Batista;41258;29;tec;Provável;5.77;9.6;3.36;América-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;bom
+Gerson Alencar de Lima Junior;50401;29;mei;Provável;-2.2;3.5;1.98;América-MG;1;0;1;1;0;0;3;0;6;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;ruim
+Leandro Donizete Gonçalves da Silva;51318;29;mei;Provável;-3.4;1.17;0.48;América-MG;1;0;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;ruim
+Luan Michel;60834;29;ata;Provável;0.2;8.77;2.24;América-MG;3;0;0;2;0;1;1;0;1;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;ruim
+Carlos Emiliano Pereira;63194;29;lat;Provável;10.3;12.55;5.29;América-MG;1;1;0;0;0;0;7;0;3;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;bom
+João Ricardo Riedi;81881;29;gol;Provável;-8.6;7.63;4.18;América-MG;0;0;0;0;0;0;0;0;2;0;0;0;0;4;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;bom
+Adilson dos Anjos Oliveira;82381;29;mei;Provável;0.5;8.34;3.23;América-MG;3;0;0;1;0;0;2;0;5;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;ruim
+Ruy Franco de Almeida Junior;82939;29;mei;Provável;3.6;4.7;1.81;América-MG;0;1;0;3;0;0;1;0;2;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;bom
+Messias Rodrigues da Silva Júnior;87402;29;zag;Provável;-0.3;8.98;2.8;América-MG;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;sim;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;bom
+Aderlan de Lima Silva;88423;29;lat;Provável;0.0;5.03;3.62;América-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;bom
+Matheus Leonardo Sales Cardoso;93886;29;mei;Provável;0.0;3.71;2.25;América-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota;Atlético-PR;0 x 4;Atlético-MG;30.33;casa;ruim
+Fábio Santos Romeu;38229;29;lat;Provável;3.9;7.01;3.05;Atlético-MG;0;0;0;3;0;0;2;0;2;0;0;0;0;0;0;0;0;0;sim;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Ricardo de Oliveira;38910;29;ata;Provável;0.0;11.64;5.83;Atlético-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Adilson Warken;50307;29;mei;Provável;0.0;6.59;3.16;Atlético-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Victor Leandro Bagy;52950;29;gol;Provável;-1.5;13.47;3.62;Atlético-MG;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;sim;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Elias Mendes Trindade;54395;29;mei;Provável;1.7;6.82;3.46;Atlético-MG;2;0;2;2;0;0;2;1;3;0;0;0;0;0;0;0;0;0;sim;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Patric Cabral Lalau;60969;29;lat;Provável;0.0;4.21;1.41;Atlético-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Luan Madson Gedeão De Paiva;63219;29;ata;Provável;1.4;14.87;5.06;Atlético-MG;2;0;1;2;0;0;1;0;3;0;0;0;0;0;0;0;0;0;sim;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Juan Ramón  Cazares Sevillano;81682;29;mei;Provável;0.0;10.63;4.21;Atlético-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Gabriel Costa França;87393;29;zag;Provável;3.2;6.31;2.31;Atlético-MG;1;1;1;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;sim;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Iago Justen Maidana Martins;89226;29;zag;Provável;0.0;4.69;2.14;Atlético-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Yimmi Javier Chará Zamora;99891;29;ata;Provável;-0.4;9.24;3.4;Atlético-MG;2;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;sim;derrota;Chapecoense;0 x 0;América-MG;62.63;casa;ruim
+Thiago Larghi;101957;29;tec;Provável;2.53;11.76;4.62;Atlético-MG;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota;Chapecoense;0 x 1;América-MG;62.63;casa;ruim
+Paulo André Cren Benini;37604;29;zag;Provável ;3.3;7.28;2.81;Atlético-PR;0;0;0;0;0;0;1;1;4;0;1;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;bom
+Jonathan Cícero Moreira;37662;29;lat;Provável ;0.0;9.39;4.26;Atlético-PR;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;ruim
+Thiago Heleno Henrique Ferreira;38394;29;zag;Provável ;5.7;10.39;3.92;Atlético-PR;1;0;0;0;0;0;1;0;1;0;1;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;exelente
+Aderbar Melo dos Santos Neto;69012;29;gol;Provável ;5.0;10.45;4.66;Atlético-PR;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;bom
+Marcelo Cirino da Silva;69022;29;ata;Provável ;7.9;6.29;4.02;Atlético-PR;0;0;0;1;1;0;0;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;ruim
+Pablo Felipe Teixeira;69138;29;ata;Provável ;5.8;11.46;5.36;Atlético-PR;2;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;ruim
+Maycon Vinícius Ferreira da Cruz;69705;29;mei;Provável ;16.1;10.95;3.39;Atlético-PR;1;0;0;3;1;0;0;0;3;1;0;0;1;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;ruim
+Luis Oscar González;71479;29;mei;Provável ;0.9;4.5;1.16;Atlético-PR;0;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;ruim
+Raphael Cavalcante Veiga;94509;29;mei;Provável ;9.4;7.92;3.55;Atlético-PR;1;0;2;1;1;0;2;1;4;0;0;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;bom
+Renan Augusto Lodi dos Santos;96591;29;lat;Provável ;11.0;4.74;4.08;Atlético-PR;2;0;0;1;0;0;1;0;0;1;1;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;bom
+Tiago Retzlaff Nunes;98057;29;tec;Provável ;8.65;11.09;4.69;Atlético-PR;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;bom
+Bruno Guimarães Rodriguez Moura;98352;29;mei;Provável ;9.3;6.37;2.47;Atlético-PR;0;0;0;2;0;0;3;0;4;1;0;0;0;0;0;0;0;0;sim;vitoria ;Chapecoense ;4 x 0;Sport;44.62;casa;ruim
+Nilton Ferreira Júnior;38573;29;mei;Dúvida;5.9;5.06;2.53;Bahia;1;1;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;ruim
+Bruno Vieira do Nascimento;42499;29;lat;Provável;0.0;4.6;2.58;Bahia;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;bom
+Gilberto Oliveira Souza Júnior;61188;29;ata;Provável;0.3;13.42;6.41;Bahia;4;0;2;0;0;0;2;1;1;0;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;ruim
+Enderson Alves Moreira;62137;29;tec;Provável;3.52;11.32;3.7;Bahia;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;bom
+José  ÉlberPimentel da Silva;74140;29;mei;Provável;20.6;8.08;4.03;Bahia;2;0;0;4;2;0;3;0;3;0;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;exelente
+Douglas Ricardo Grolli;78407;29;zag;Provável;0.0;3.23;2.08;Bahia;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;bom
+Douglas Alan Schuck Friedrich;78584;29;gol;Provável;5.2;5.37;2.15;Bahia;0;0;0;1;0;0;0;0;1;0;0;3;0;2;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;exelente
+Lucas Fonseca da Silva;80189;29;zag;Provável;-0.3;7.53;2.59;Bahia;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;ruim
+José Rafael Vivian;82455;29;mei;Provável;10.7;18.94;6.9;Bahia;3;1;1;2;0;0;3;0;1;1;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;bom
+Leonardo Pinheiro da Conceição;85626;29;lat;Provável;0.7;9.51;3.23;Bahia;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;ruim
+Flávio Medeiros da Silva;91102;29;mei;Dúvida;0.0;3.07;1.72;Bahia;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;ruim
+Gregore de Magalhães da Silva;95464;29;mei;Provável;0.9;7.79;2.95;Bahia;6;1;0;0;0;0;2;0;1;0;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;ruim
+Eric dos Santos Rodrigues;103295;29;mei;Provável;-0.8;6.49;4.47;Bahia;1;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;sim;empate ;Grêmio ;2 x 2;Paraná ;0.76;casa;bom
+Gilson Gomes do Nascimento;52674;29;lat;Provável;0.0;8.76;3.94;Botafogo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;exelente
+Rodrigo Pimpão Viana;68901;29;ata;Dúvida;-0.8;4.32;1.39;Botafogo;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Welker Marçal de Almeida;68930;29;ata;Provável;4.4;7.08;4.33;Botafogo;3;1;0;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Rodrigo Oliveira Lindoso;72362;29;mei;Provável;-1.8;9.91;4.59;Botafogo;1;0;1;1;0;0;0;1;2;0;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Renato Vieira Rodrigues;80395;29;mei;Dúvida;0.0;4.97;2.49;Botafogo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Erik Nascimento Lima;84848;29;ata;Dúvida;3.9;2.66;2.56;Botafogo;0;0;0;3;0;0;2;0;2;0;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;0 x 0;Ceará ;0.0;fora;ruim
+Jean Carlos de Souza Irmer;89150;29;mei;Dúvida;0.0;5.24;4.03;Botafogo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Saulo Ferreira Silva Nascimento;89492;29;gol;Provável;4.2;3.83;3.0;Botafogo;0;0;0;1;0;0;0;0;1;0;0;2;0;1;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;exelente
+Igor Rabello da Costa;89493;29;zag;Provável;6.1;11.08;3.42;Botafogo;0;1;1;1;0;0;3;0;3;0;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;bom
+Luiz Fernando Moraes dos Santos;90715;29;mei;Provável;11.8;4.81;2.43;Botafogo;2;0;2;1;1;0;0;0;1;0;0;0;1;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Márcio Almeida de Oliveira;93797;29;lat;Provável;-1.9;6.7;3.27;Botafogo;1;1;0;0;0;0;0;1;2;0;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Marcelo da Conceição Benevenuto Malaquias;95638;29;zag;Provável;0.0;6.68;3.07;Botafogo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;bom
+José Ricardo Mannarino;95780;29;tec;Provável;3.57;9.31;3.39;Botafogo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;bom
+Gustavo Costa da Silva Machado;95798;29;mei;Provável;2.0;4.46;2.88;Botafogo;0;0;4;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;sim;empate ;Vasco ;1 x 1;Ceará ;0.0;fora;ruim
+Edimo Ferreira Campos;37792;29;mei;Provável;0.0;3.01;0.43;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Tiago dos Santos Alves;51495;29;zag;Provável;0.0;5.67;3.85;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Felipe Azevedo dos Santos;60825;29;ata;Provável;0.0;5.28;2.15;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Pedro Julião Azevedo Junior;71787;29;ata;Provável;0.0;5.26;4.21;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Anderson Felipe Marques Pires;72294;29;gol;Provável;0.0;12.29;5.96;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;bom
+Luiz Carlos Cirne Lima de Lorenzi;72588;29;tec;Provável;0.0;8.2;4.23;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Samuel xavier Brito;73384;29;lat;Provável;0.0;6.49;5.28;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;bom
+Eduardo Schroeder Brock;78654;29;zag;Provável;0.0;5.88;4.28;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;bom
+Calyson Rubens Santiago Rosa;82630;29;mei;Provável;0.0;2.34;1.66;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Richardson Fernandes dos Santos;86536;29;mei;Provável;0.0;6.47;3.29;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Arthur Mendonça  Cabral;92171;29;ata;Provável;0.0;3.36;1.76;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;ruim
+Felipe Jonatan Rocha Andrade;101708;29;lat;Provável;0.0;3.69;5.88;Ceará;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Cruzeiro;2 x 0;Botafogo;42.87;casa;exelente
+William José de Souza;42232;29;mei;Provável;4.5;4.0;1.7;Chapecoense;3;0;0;0;0;0;4;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Carlos Eduardo Santos Oliveira;50645;29;lat;Provável;5.8;6.93;3.54;Chapecoense;1;0;0;3;0;0;2;1;4;0;1;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Douglas Silva Bacelar;63128;29;zag;Provável;8.6;7.57;2.98;Chapecoense;0;0;2;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Vinicius Santos Silva;68917;29;ata;Provável;-1.1;3.16;0.66;Chapecoense;1;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Leandro Marcos Pereira;78968;29;ata;Provável;-1.2;6.81;3.45;Chapecoense;2;0;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Rafael Thyere Albuquerque Marques;83048;29;zag;Provável;4.1;4.13;2.33;Chapecoense;0;0;0;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Jandrei Chitolina Carniel;86508;29;gol;Provável;10.7;4.91;1.41;Chapecoense;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Gustavo Bonatto Barreto;89224;29;mei;Provável;5.9;1.36;0.05;Chapecoense;0;0;0;1;0;0;4;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Bruno de Jesus Pacheco;90061;29;lat;Provável;4.4;6.79;3.0;Chapecoense;4;0;0;2;0;0;2;1;2;0;1;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Émerson Cris Hartkopp;95830;29;tec;Provável;0.0;8.04;0.0;Chapecoense;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Yann Del Pino Rolim;102892;29;mei;Provável;0.2;3.24;2.29;Chapecoense;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;ruim
+Agustín Doffo;102894;29;mei;Provável;10.0;4.84;5.23;Chapecoense;6;0;2;6;1;0;2;1;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Atlético-MG;1 x 0;Vitória ;24.11;casa;exelente
+Jadson Rodrigues da Silva;38315;29;mei;Provável;-0.1;7.07;2.94;Corinthians;0;0;0;2;0;1;0;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Cássio Ramos;42234;29;gol;Provável;-0.3;9.56;3.58;Corinthians;0;0;0;0;0;0;0;0;1;0;0;2;0;3;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Fagner Conserva Lemos;42500;29;lat;Provável;0.0;10.43;4.11;Corinthians;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Henrique Adriano Buss;50856;29;zag;Provável;-0.6;9.02;3.01;Corinthians;0;0;0;1;0;0;1;1;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Ralf de Souza Telles;52190;29;mei;Provável;5.4;7.51;1.57;Corinthians;0;0;0;0;0;0;4;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Danilo Fernando Avelar;72142;29;lat;Provável;1.7;5.89;1.89;Corinthians;1;0;1;1;0;0;1;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Clayson Henrique da Silva Vieira;83817;29;ata;Provável;3.8;8.78;1.74;Corinthians;1;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Angel Rodrigo Romero Villamayor ;88323;29;ata;Provável;-2.7;9.83;5.12;Corinthians;2;0;0;3;0;0;0;1;4;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Jair Ventura;92180;29;tec;Provável;1.88;10.17;3.43;Corinthians;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Douglas Augusto Soares Gomes;92497;29;mei;Provável;9.9;4.06;2.97;Corinthians;0;1;0;3;0;0;5;0;1;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Mateus da Silva Vital Assunção;93108;29;mei;Provável;2.4;5.09;1.84;Corinthians;0;1;1;2;0;0;0;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Leonardo Rodrigues dos Santos;95820;29;zag;Provável;0.1;2.49;2.22;Corinthians;1;0;0;0;0;0;1;0;3;0;0;0;0;0;0;0;0;0;sim;derrota ;Flamengo ;0 x 3;Santos ;67.53;fora;ruim
+Luis Antônio Venker de Menezes;37281;29;tec;Provável;0.0;10.35;3.52;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Fábio Deivson Lopes Maciel;37656;29;gol;Provável;0.0;12.23;4.14;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Henrique Pacheco de Lima;37694;29;mei;Provável;0.0;7.97;2.14;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Thiago Neves Augusto;38277;29;mei;Provável;0.0;8.84;2.02;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Édson Menndes Guimarães;38523;29;lat;Provável;0.0;7.79;2.69;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Egídio de Araújo Pereira  Júnior ;42145;29;lat;Provável;0.0;9.66;5.28;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Leonardo Renan Simões de Lacerda;50459;29;zag;Provável;0.0;7.17;2.67;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Anderson Vital da Silva;60819;29;zag;Provável;0.0;11.2;5.58;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Róbson Michael Signorini;62104;29;mei;Provável;0.0;5.76;1.83;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Hernán Barcos;78379;29;ata;Provável;0.0;6.82;1.89;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Alejandro Ariel Cabral;80363;29;mei;Provável;0.0;5.49;2.29;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Giorgian Daniel de Arrascaeta Benedetti;87863;29;mei;Provável;0.0;15.79;6.88;Cruzeiro;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Ceará ;0 x 2;Vasco ;33.93;fora;ruim
+Dorival Silvestre Júnior;40990;29;tec;Provável ;8.49;15.19;7.25;Flamengo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+Luiz Rhodolfo Dini Gaioto;42501;29;zag;Dúvida;0.0;7.6;3.34;Flamengo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+Éverton Augusto de Barros Ribeiro;51772;29;mei;Provável ;6.1;8.42;4.62;Flamengo;1;0;0;3;0;0;5;0;8;0;0;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+Réver Humberto Alves Araújo;52253;29;zag;Dúvida;6.4;15.62;5.82;Flamengo;0;1;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+Marcos Rogério Ricci Lopes;62086;29;lat;Provável ;3.7;3.9;2.53;Flamengo;3;0;0;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;ruim
+Gustavo Leonardo Cuellar Gallego;71709;29;mei;Provável ;3.7;10.28;4.02;Flamengo;1;0;0;0;0;0;3;0;1;0;0;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+César Bernardo Dutra;78086;29;gol;Provável ;11.1;4.77;4.18;Flamengo;0;0;0;0;0;0;0;1;3;0;1;3;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+Fernando Uribe Hincapião;78415;29;ata;Provável ;3.8;10.01;3.97;Flamengo;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;exelente
+Victor Vinícius  Coelho dos Santos;78435;29;ata;Provável ;6.5;15.28;5.21;Flamengo;3;0;2;1;0;0;2;0;7;1;0;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+Renê Rodrigues Martins;78445;29;lat;Provável ;21.0;15.02;7.08;Flamengo;0;1;0;1;1;0;5;0;4;0;1;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;bom
+Willian Souza Arão da Silva;78478;29;mei;Provável ;1.4;4.72;2.63;Flamengo;3;0;1;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;ruim
+Leonardo Campos Duarte da Silva;94214;29;zag;Provável ;10.0;10.9;4.69;Flamengo;2;0;0;0;0;0;4;0;0;0;1;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;exelente
+Lucas Tolentino Coelho de Lima;94930;29;mei;Provável ;16.5;21.3;7.46;Flamengo;2;2;0;0;2;0;0;0;3;0;0;0;0;0;0;0;0;0;sim;vitoria ;Corinthians ;3 x 0;Fluminense ;119.35;casa;ruim
+Júlio CésarJacobi;49673;29;gol;Provável;5.0;4.28;2.82;Fluminense;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Marcelo de Oliveira Santos;62136;29;tec;Provável;9.95;10.48;4.01;Fluminense;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Rodrigo Júnior Paula Silva;68886;29;zag;Provável;10.7;5.49;3.31;Fluminense;0;1;0;0;0;0;3;0;0;0;1;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Welington Pereira Rodrigues;68887;29;zag;Provável;6.5;5.71;2.76;Fluminense;1;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Leonardo Moreira Morais;69177;29;lat;Provável;5.2;4.62;3.4;Fluminense;0;0;0;3;0;1;1;1;1;0;1;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Jadson Alves dos Santos;80129;29;mei;Provável;15.4;7.65;2.31;Fluminense;2;0;2;0;2;0;0;0;4;0;0;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Luciano da Rocha Neves;80287;29;ata;Provável;7.6;5.58;3.35;Fluminense;0;1;0;0;1;2;0;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Richard Cándido Coelho;86711;29;mei;Provável;8.2;14.87;4.55;Fluminense;4;0;1;1;1;0;2;0;7;0;0;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Júnior Nazareno Sornoza Moreira;87877;29;mei;Provável;0.0;7.77;2.19;Fluminense;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Ayrton Lucas Dantas de Medeiros;88393;29;lat;Provável;8.9;11.13;4.93;Fluminense;0;0;1;2;0;0;2;0;3;0;1;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;bom
+Everaldo Silva do Nascimento;91151;29;ata;Provável;12.7;5.18;4.53;Fluminense;1;0;1;3;0;0;2;0;7;2;0;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Roger Ibañaez da Silva;97803;29;zag;Provável;6.1;4.78;2.85;Fluminense;0;1;0;1;0;0;0;0;2;0;1;0;0;0;0;0;0;0;sim;vitoria ;Paraná ;4 x 0;Flamengo ;0.0;fora;ruim
+Douglas dos Santos;38738;29;mei;Provável;0.0;5.28;1.55;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Renato Portaluppi;41929;29;tec;Provável;4.6;14.56;4.85;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Marcelo Oliveira Ferreira;50328;29;lat;Dúvida;0.0;2.91;2.4;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+André Felipe Ribeiro de Souza;68690;29;ata;Dúvida;0.3;7.15;1.89;Grêmio;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Jonathan Doin;68817;29;zag;Provável;0.0;8.34;5.76;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Paulo Victor Mileo Vidotti;68873;29;gol;Provável;1.0;6.38;3.48;Grêmio;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;sim;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Mário Sérgio Santos Costa ;68952;29;ata;Provável;0.9;10.67;3.76;Grêmio;1;0;2;2;0;0;0;0;4;0;0;0;0;0;0;0;0;0;sim;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Matheus Simonete Bressanelli;72491;29;zag;Provável;0.0;8.73;4.93;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Leonardo Gomes daConceição Silva;86973;29;lat;Provável;-0.6;4.57;5.72;Grêmio;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;sim;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Eduardo Gabriel Aquino Cossa;91201;29;ata;Provável;0.0;3.25;2.54;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Kaio Silva Mendes;92574;29;mei;Dúvida;0.0;2.92;1.56;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Luis Antônio da Rocha Junior;94968;29;lat;Dúvida;8.8;5.86;5.28;Grêmio;3;0;0;5;1;0;2;1;4;0;0;0;0;0;0;0;0;0;sim;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Jean Pyerre Casagrande Silveira Correa;98832;29;mei;Dúvida;0.0;2.27;1.35;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Matheus Henrique de Souza;100742;29;mei;Provável;0.0;1.04;1.02;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Thonny Anderson da Silva Carvalho;101484;29;mei;Dúvida;0.0;4.84;2.49;Grêmio;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Bahia ;2 x 2;Palmeiras;85.64;fora;ruim
+Andrés Nicolas Dalessandro;62023;29;mei;Provável;5.7;5.4;1.16;Internacional;0;0;1;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Edenílson Andrade Dos Santos;63289;29;mei;Provável;0.0;8.66;2.82;Internacional;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Marcelo Lomba do Nascimento;68872;29;gol;Provável;-0.5;7.82;5.6;Internacional;0;0;0;1;0;0;0;0;0;0;0;1;0;2;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Leandro Damião da Silva dos Santos;68953;29;ata;Dúvida;0.0;10.18;3.98;Internacional;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;exelente
+William de Oliveira Pottker;77809;29;ata;Dúvida;0.0;5.0;3.28;Internacional;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Rodrigo Dourado Cunha;78865;29;mei;Provável;0.7;10.32;3.63;Internacional;1;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Víctor Leandro Cuesta;79113;29;zag;Provável;0.0;18.79;7.0;Internacional;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;exelente
+Fabiano Leissmann;79887;29;lat;Provável;-1.7;8.32;3.22;Internacional;0;0;0;0;0;0;1;1;4;0;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Patrick Bezerra do Nascimento;83433;29;mei;Provável;7.1;17.12;6.24;Internacional;3;1;1;0;0;0;5;0;3;0;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;bom
+Nicolás Federico López Alonso;84709;29;ata;Provável;13.3;16.66;5.88;Internacional;1;1;0;2;1;0;3;0;3;0;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;exelente
+Emerson Raymundo Santos;86972;29;zag;Provável;4.9;3.36;4.0;Internacional;0;0;0;2;0;0;3;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Odair Hellmann;92273;29;tec;Provável;3.03;12.44;4.95;Internacional;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;bom
+Iago Amaral Borduchi;97868;29;lat;Provável;0.6;11.09;4.57;Internacional;3;0;0;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;sim;derrota ;Sport ;1 x 2;São Paulo ;29.78;casa;ruim
+Eduardo Luiz Abonizio de Souza;37657;29;zag;Provável;0.0;6.15;1.62;Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Fernando Buttenbender Prass;38140;29;gol;Dúvida;0.0;9.55;1.7;Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Felipe Melo de Carvalho;38545;29;mei;Provável;0.4;3.17;1.65;Palmeiras;1;0;0;4;0;0;1;1;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Willian Gomes de Siqueira;42116;29;ata;Dúvida;0.4;12.06;5.39;Palmeiras;1;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;bom
+Luiz Felipe Scolari;43618;29;tec;Provável;7.14;14.73;5.88;Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;bom
+Jean Raphael Vanderlei Moreira;62047;29;lat;Provável;0.0;6.53;3.27;Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;bom
+Moisés lima Magalhães;63158;29;mei;Dúvida;3.5;5.64;2.65;Palmeiras;0;0;0;1;0;0;3;0;5;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Diogo Barbosa Mendanha;70916;29;lat;Dúvida;0.0;9.64;3.46;Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;bom
+Bruno Henrique Corsini;70944;29;mei;Dúvida;0.5;10.13;4.26;Palmeiras;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Weverton Pereira da Silva;71631;29;gol;Dúvida;10.7;9.57;4.61;Palmeiras;0;0;0;0;0;0;0;0;1;0;1;2;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Antônio Carlos Cunha Capocasali Júnior;79702;29;zag;Provável;0.0;8.19;3.16;Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Lucas Rafael Araujo Lima;80583;29;mei;Provável;9.9;7.78;3.45;Palmeiras;3;0;1;2;0;0;7;0;3;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Hyoran Kaue Dalmoro;85931;29;mei;Provável;-0.6;5.34;3.47;Palmeiras;3;0;0;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Victor Luis Chuab Zamblauskas;86410;29;lat;Dúvida;3.4;8.5;4.9;Palmeiras;1;0;1;2;0;0;0;1;3;0;1;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Gustavo Henrique Furtado Scarpa;87999;29;mei;Dúvida;0.0;9.08;2.23;Palmeiras;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;ruim
+Deyverson Brum Silva Acosta;92708;29;ata;Provável;8.3;7.44;4.51;Palmeiras;3;1;0;5;1;2;0;0;3;0;0;0;0;0;0;0;0;0;sim;vitoria ;São Paulo ;2 x 0;Grêmio ;55.2;casa;exelente
+Silvio José Cardoso Reis Junior;71799;29;ata;Provável;-2.3;7.94;3.56;Paraná;3;0;1;1;0;0;0;0;7;0;0;0;0;0;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Rayan Poltronieri Pereira;73923;29;zag;Provável;0.0;2.51;1.06;Paraná;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Renê Ferreira dos Santos;73978;29;zag;Provável;3.2;5.49;2.55;Paraná;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;bom
+Richard de Oliveira da Costa;78851;29;gol;Provável;-2.0;4.58;2.02;Paraná;0;0;0;0;0;0;0;0;0;0;0;2;0;4;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;bom
+Claudinei dos Santos Oliveira;84761;29;tec;Provável;0.06;8.7;3.14;Paraná;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Alex Paulo Menezes Santana;85465;29;mei;Provável;3.5;4.25;3.46;Paraná;2;0;2;1;0;0;2;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Leandro Vilela Sales Teixeira;88687;29;mei;Provável;1.0;4.44;1.98;Paraná;1;0;0;0;0;0;2;0;5;0;0;0;0;0;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Igor Aquino da Silva;91639;29;lat;Provável;0.0;2.72;2.02;Paraná;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Carlos Jamisson Teles dos Santos Júnior;94935;29;lat;Provável;0.5;0.94;-0.4;Paraná;2;0;0;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Ozealisson Santos Gomes;95210;29;lat;Provável;0.0;9.29;5.68;Paraná;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;exelente
+Rafael Santiago Gonçalves;95803;29;ata;Provável;0.0;3.13;1.83;Paraná;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Deivid Anacleto de Souza;97155;29;ata;Provável;0.2;2.0;0.23;Paraná;3;0;1;0;0;0;1;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Fluminense ;0 x 4;Bahia ;42.22;fora;ruim
+Alexi Stival;42411;29;tec;Provável;5.63;11.27;4.88;Santos;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;bom
+Vanderlei Farias da Silva;62121;29;gol;Provável;8.0;15.78;4.28;Santos;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;bom
+José Rodolfo Pires Ribeiro;68727;29;lat;Provável;17.8;14.26;5.79;Santos;2;1;0;2;0;0;5;0;3;1;1;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;exelente
+Victor Ferraz Macedo;70046;29;lat;Provável;5.6;11.74;5.38;Santos;1;0;1;0;0;0;1;0;4;0;1;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;exelente
+Alison Lopes Ferreira;73974;29;mei;Provável;1.4;7.55;2.62;Santos;4;0;0;0;0;0;4;1;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;ruim
+Gustavo Henrique Vernes;78248;29;zag;Provável;5.7;6.57;4.42;Santos;3;0;0;2;0;0;1;0;1;0;1;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;bom
+Luiz Felipe do Nascimento dos Santos;79035;29;zag;Provável;6.2;4.17;3.14;Santos;1;0;0;1;0;0;1;0;1;0;1;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;bom
+Carlos Andrés Sanchez Arcosa;81677;29;mei;Provável;5.1;9.81;3.89;Santos;2;0;0;2;1;0;0;1;3;0;0;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;ruim
+Gabriel Barbosa Almeida;83257;29;ata;Provável;5.0;14.95;6.13;Santos;1;0;1;2;0;1;3;0;1;0;0;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;bom
+Bruno Henrique Pinto;90285;29;ata;Provável;-0.5;9.38;1.56;Santos;6;0;2;3;0;0;0;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;bom
+Diego Cristiano Evaristo;94156;29;mei;Provável;1.5;4.04;2.83;Santos;4;0;1;3;0;0;1;0;1;0;0;0;0;0;0;0;0;0;sim;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;ruim
+Arthur Gomes Lourenço;96966;29;ata;Provável;0.0;2.57;0.68;Santos;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Vitória ;1 x 0;Corinthians ;22.58;casa;ruim
+Michel Fernandes Bastos;37607;29;mei;Dúvida;8.0;4.5;2.71;Sport;2;1;2;1;0;1;1;0;1;1;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Ernando Rodrigues Lopes;49651;29;zag;Provável;0.0;4.47;1.9;Sport;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Hernane Vidal Souza;72386;29;ata;Dúvida;0.0;4.41;3.35;Sport;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Gabriel Santana Pinto;73515;29;mei;Provável;4.9;5.32;2.68;Sport;0;0;0;1;0;0;0;0;2;1;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Marcos Antônio Almeida Silva;78856;29;mei;Provável;2.9;3.79;2.08;Sport;0;0;1;0;0;0;2;0;3;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Johnath Marlone Azevedo da Silva;80944;29;mei;Provável;3.2;8.17;2.62;Sport;0;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Jair Rodrigues Júnior;81091;29;mei;Provável;7.4;4.6;2.94;Sport;1;0;0;1;0;1;7;1;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Raul Prata;84855;29;lat;Provável;-2.9;7.72;2.63;Sport;1;0;0;0;0;0;0;0;8;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Milton Mendes;86486;29;tec;Provável;3.72;6.83;1.93;Sport;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Adryelson Shawann Lima Silva;91664;29;zag;Provável;0.0;2.49;4.0;Sport;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Sander Henrique Bortolotto;95843;29;lat;Provável;5.4;11.61;5.3;Sport;2;0;1;2;0;0;5;1;3;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Maílson Tenório dos Santos ;98034;29;gol;Provável;0.0;5.2;5.6;Sport;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Mateus Gonçalves Martins;103076;29;ata;Provável;7.6;2.03;1.72;Sport;1;1;0;0;1;1;0;0;2;0;0;0;0;0;0;0;0;0;sim;vitoria ;Internacional ;2 x 1;Atlético-PR;103.75;fora ;ruim
+Anderson Luiz de Carvalho;38913;29;mei;Provável;-0.4;10.39;4.53;São Paulo;1;0;0;2;0;0;0;0;3;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Hudson Rodrigues dos Santos;50324;29;mei;Provável;9.5;8.88;3.77;São Paulo;2;0;2;4;0;0;5;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Jucilei da Silva;63422;29;mei;Provável;2.2;7.48;3.57;São Paulo;2;0;0;1;0;0;2;0;1;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Diego Souza de Andrade;68911;29;mei;Provável;0.1;11.19;4.48;São Paulo;1;0;1;3;0;1;0;0;4;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Joao Robin Rojas Mendoza;70784;29;ata;Provável;5.2;9.69;4.9;São Paulo;0;2;0;3;0;0;3;1;4;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Bruno Fabiano Alves;73620;29;zag;Provável;4.0;9.09;3.67;São Paulo;0;0;0;0;0;1;3;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Diego Vicente Aguirre Camblor;73766;29;tec;Provável;2.48;11.77;4.47;São Paulo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Rodrigo Caio Roquette Russo;73800;29;zag;Provável;0.0;9.96;3.18;São Paulo;2;0;0;0;0;0;2;1;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Reinaldo Manoel da Silva;78850;29;lat;Provável;2.5;11.92;5.51;São Paulo;1;0;1;2;0;0;2;0;6;0;0;0;0;0;0;0;0;0;sim;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;bom
+Jean Paulo Fernandes Filho;90933;29;gol;Provável;0.0;4.58;-2.65;São Paulo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Robert Abel Arboleda Escobar;91573;29;zag;Provável;0.0;8.84;3.17;São Paulo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;ruim
+Igor Matheus Liziero Pereira;100761;29;lat;Provável;0.0;8.2;3.96;São Paulo;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Palmeiras ;0 x 2;Internacional ;36.33;fora;exelente
+Leandro Castan da Silva;38505;29;zag;Provável;0.0;5.92;0.08;Vasco;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;ruim
+Fabricio dos Santos Silva;49674;29;lat;Provável;1.1;4.72;2.25;Vasco;1;0;1;1;0;0;2;0;9;0;0;0;0;0;0;0;0;0;sim;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;bom
+Werley Ananias da Silva;62974;29;zag;Provável;0.0;5.32;2.14;Vasco;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;ruim
+Maximiliano Gastón López;68800;29;ata;Provável;7.4;9.57;4.56;Vasco;0;0;0;0;1;0;0;0;2;0;0;0;0;0;0;0;0;0;sim;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;bom
+Rafael Galhardo de Souza;68821;29;lat;Provável;0.0;2.59;0.71;Vasco;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;ruim
+Ramon de Morais Motta;68896;29;lat;Provável;-0.9;9.04;3.01;Vasco;0;0;0;0;0;0;0;0;3;0;0;0;0;0;0;0;0;0;sim;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;exelente
+Martín Andrés Silva Leites;69249;29;gol;Provável;0.0;6.8;1.34;Vasco;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;ruim
+Glaybson Yago Souza Lisboa;80196;29;lat;Provável;3.7;19.36;7.48;Vasco;1;0;0;3;0;0;3;0;6;0;0;0;0;0;0;0;0;0;sim;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;exelente
+Andrés Lorenzo Ríos;81684;29;ata;Dúvida;5.1;7.53;2.98;Vasco;2;0;0;2;0;0;4;0;3;0;0;0;0;0;0;0;0;0;sim;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;ruim
+Alberto Valentim do Carmo Neto;84863;29;tec;Provável;2.83;9.85;3.67;Vasco;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;bom
+Bruno Cosendey Lobo Pinto;99615;29;mei;Provável;-0.3;3.55;1.76;Vasco;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;sim;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;ruim
+Bruno de Andrade Ritter;103490;29;mei;Dúvida;0.0;1.99;1.5;Vasco;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;empate ;Botafogo ;1 x 1;Cruzeiro ;55.2;casa;ruim
+Paulo César Carpegiani;39355;29;tec;Provável;2.01;9.01;3.22;Vitória;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;bom
+Willian Roberto Farias;63058;29;mei;Provável;1.9;4.25;2.46;Vitória;1;0;0;3;0;0;1;0;2;0;0;0;0;0;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;ruim
+Fabiano da Silva Souza;79244;29;lat;Provável;3.1;6.7;4.0;Vitória;3;0;0;0;0;0;5;1;3;0;0;0;0;0;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;bom
+Jeferson de Araújo de Carvalho;84917;29;lat;Provável;2.8;6.3;2.83;Vitória;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;bom
+José Rodrigo Andrade Ramos;89646;29;mei;Provável;0.9;1.09;0.36;Vitória;1;0;2;2;0;0;0;0;4;0;0;0;0;0;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;ruim
+Lucas Fernandes;90899;29;ata;Provável;9.9;8.13;3.68;Vitória;0;1;2;7;0;0;3;0;3;0;0;0;0;0;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;exelente
+Ronaldo de Oliveira Strada;91101;29;gol;Provável;-2.0;5.96;4.55;Vitória;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;bom
+Bruno Bispo dos Anjos;91359;29;zag;Provável;0.0;4.84;4.6;Vitória;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;ruim
+Aderllan Leandro de Jesus Santos;93296;29;zag;Provável;0.0;3.82;3.14;Vitória;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;ruim
+Walter Bou;95853;29;ata;Provável;0.0;4.43;1.13;Vitória;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;ruim
+Erick de Arruda Serafim;97810;29;ata;Provável;4.4;8.4;4.93;Vitória;0;1;1;3;0;0;2;0;7;0;0;0;0;0;0;0;0;0;sim;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;exelente
+Leonardo Silva Gomes;101585;29;mei;Provável;0.0;0.77;0.15;Vitória;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;nao;derrota ;Santos ;0 x 1;Chapecoense ;66.76;fora;ruim
