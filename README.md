@@ -1,2 +1,2 @@
 # Trabalho-de-Conclusao-de-Curso
-Repositório das informações
+Esse repositório tem como objetivo apresentar um estudo de prediçoes de resultados das pontuações do Cartola FC
